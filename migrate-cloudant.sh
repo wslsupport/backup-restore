@@ -1,5 +1,5 @@
 #!/bin/bash
-
+exit (0)
 CUR_DIR=$(cd `dirname $0`; pwd 2>/dev/null)
 
 EXTRACTED_DIRNAME='cloudant-backup'
